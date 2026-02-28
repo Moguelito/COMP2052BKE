@@ -11,7 +11,7 @@ clinic_staff = {}
 def info():
     return jsonify({
         "aplicacion": "Sistema Web de Gestión para Clínica Médica",
-        "estaado": "Activo",
+        "estado": "Activo",
         "descripcion": "API básica para la gestión de la clínica"
     })
 
