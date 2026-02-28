@@ -1,0 +1,19 @@
+{
+  "proyecto": "Gestión de Clínica Médica",
+  "descripcion": "Estructura de datos para el manejo de inventario y personal",
+  "tablas": {
+    "usuarios": {
+      "id": "numero unico",
+      "nombre": "texto",
+      "correo": "texto",
+      "rol": "admin o staff"
+    },
+    "productos": {
+      "id": "numero unico",
+      "nombre_producto": "texto",
+      "categoria": "medicamento o equipo",
+      "precio": "decimal",
+      "cantidad": "numero entero"
+    }
+  }
+}
