@@ -1,4 +1,4 @@
-# Sistema de Gestión - Clínica Médica 🏥
+# Sistema de Gestión - Clínica Médica 
 Este es el proyecto Capstone para la gestión de pacientes y citas
 
 ## Funcionalidades
